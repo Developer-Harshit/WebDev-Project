@@ -1,0 +1,28 @@
+li {
+  list-style: none;
+  text-align: left;
+  background-color: #00000065;
+  margin: 10px auto;
+  color: #ffffff;
+  box-shadow: -2px 2px 1px #4e1616;
+}
+ul {
+    padding-left: 0;  
+    max-width: 800px;
+}
+div {
+  background-image: url("art.png");
+  background-repeat: no-repeat;
+  background-size: auto 100px;
+  background-position-x: 1000px;
+}
+body{
+    background-color:#652020;
+    color: #ffe6e6;
+}
+footer{
+    margin:200px auto
+}
+
+
+
